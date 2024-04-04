@@ -7,15 +7,15 @@
 
 <body bgcolor="00CCFF">
 
-<table bgcolor="CCFFFF" border="2" align="center" width = "600px" cellpadding="15px">
+<table bgcolor="CCFFFF" border="2" align="center" width = "800px" cellpadding="15px">
 <tr>
 <td>
 <h1><center>Julia Machacek's Website Home</center></h1>
-    <hr><center><width="415px"</width></center></hr>
+    <hr><center><width="600px"</width></center></hr>
         <p><center>Home | <a href="favorites.html" target="_blank">Favorites</a></center></p>
-    <hr><center><width="415px"</width></center></hr>
+    <hr><center><width="600px"</width></center></hr>
     
-<center><img src ="tank pier pic.jpg" alt="Me Pic" align="center" width="400px" height="250px"></center>
+<center><img src ="tank pier pic.jpg" alt="Me Pic" align="center" width="550px" height="300px"></center>
     <center><p><b>About Me</b></p></center>
     
 <p>Howdy! I am Julia Machacek. I am originally from Shiner, Texas and currently living in College Station, Texas. 
@@ -37,7 +37,7 @@
     <center><a href="resume.pdf" target="_blank"> Click Here for My Resume in .PDF Format<br />
     <a href="resume.word" target="_blank"> Click Here for My Resume in Word Format</a></center>
     
-<hr><center><width="415px"</width></center></hr>
+<hr><center><width="550px"</width></center></hr>
     <center><a href="mailto: juliamac@tamu.edu"> Email Me</a></center>
         
 </td>
