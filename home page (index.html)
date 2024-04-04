@@ -1,0 +1,49 @@
+<html>
+<head>
+<title> Julia Machacek Home</title>
+<!-- created by: Julia Machacek, Section 501 -->
+
+</head>
+
+<body bgcolor="00CCFF">
+
+<table bgcolor="CCFFFF" border="2" align="center" width = "475px" cellpadding="15px">
+<tr>
+<td>
+<h1><center>Julia Machacek's Website Home</center></h1>
+    <hr><center><width="415px"</width></center></hr>
+        <p><center>Home | <a href="favorites.html" target="_blank">Favorites</a></center></p>
+    <hr><center><width="415px"</width></center></hr>
+    
+<center><img src ="tank pier pic.jpg" alt="Me Pic" align="center" width="340px" height="200px"></center>
+    <center><p><b>About Me</b></p></center>
+    
+<p>Howdy! I am Julia Machacek. I am originally from Shiner, Texas and currently living in College Station, Texas. 
+    I am a student in 
+    <a href="https://mays.tamu.edu" target="_blank">Mays Business School</a> 
+    where I hope to study healthcare marketing. I am creating this website for a fun, educational assignment for ISTM 210 taught by Professor Phinney, the best professor!
+    </p>
+    
+<p> Ever since I was little, I have always loved to garden and bake just like my grandmas taught me.
+        I enjoy any outdoor activity, espcially at the beach. Spring time is my favorite season because of the wildflowers, beautiful weather, and Easter! 
+        I love to travel so I am looking forward to studying abroud in the future.
+        </p> 
+
+<p>I love living in a small town rather than a big city. During the summer, I work at the 
+            <a href="https://shiner.com" target="_blank"> K. Spoetzl Brewery</a>
+            in Shiner, Texas. Being I work in hospitality, I am now considered a certified bartender and tour guide and I love it!
+            </p>
+
+    <center><a href="resume.pdf" target="_blank"> Click Here for My Resume in .PDF Format<br />
+    <a href="resume.word" target="_blank"> Click Here for My Resume in Word Format</a></center>
+    
+<hr><center><width="415px"</width></center></hr>
+    <center><a href="mailto: juliamac@tamu.edu"> Email Me</a></center>
+        
+</td>
+</tr>
+</table>
+    
+</body>
+
+</html
