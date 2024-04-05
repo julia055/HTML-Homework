@@ -42,16 +42,15 @@
       <td>N/A</td>
       <td>2013</td>
    </tr>
-   </table>
-   </table></center>
-
-<hr><center><width="550px"</width></center></hr>
+</table>
+  
+<hr><width="550px"</width></hr>
     <h3><center>Favorite Texas Vacation Sites</center></h3>    
 
-    <ul>
-        <li><a href="https://www.rockporttx.gov" target="_blank">Rockport</a></li>
-        <li><a href="https://tpwd.texas.gov/state-parks/garner">Frio River</a></li>
-        <li><a href="https://www.portaransas.org>Port Aransas</a></li>
+    <ul><text align="left">
+ <li><a href="https://www.rockporttx.gov" target="_blank">Rockport</a></li>
+ <li><a href="https://tpwd.texas.gov/state-parks/garner">Frio River</a></li>
+ <li><a href="https://www.portaransas.org"">Port Aransas</a></li>
     </ul>
     
 <hr><center><width="550px"</width></center></hr>
@@ -61,7 +60,10 @@
     <img src="bahamas trip.jpg" alt="Bahamas Trip"
     <img src="am fb games.jpg" alt="A&M FB"
      
+ <br>
+ 
 <hr><center><width="550px"</width></center></hr>
+        <br>
     <center><a href="mailto: juliamac@tamu.edu">Email Me</a></center>
         
 </td>
@@ -71,3 +73,5 @@
 </body>
 
 </html
+  
+   
