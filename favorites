@@ -1,0 +1,73 @@
+<html>
+<head>
+<title> Julia Machacek Home</title>
+<!-- created by: Julia Machacek, Section 501 -->
+
+</head>
+
+<body bgcolor="FFCCCC">
+
+<table bgcolor="CCFFFF" border="2" align="center" width = "800px" cellpadding="15px">
+<tr>
+<td>
+<h1><center>Julia Machacek's Website Favorites</center></h1>
+    <hr><center><width="600px"</width></center></hr>
+        <p><center><a href="index.html" target="_blank">Home</a> | Favorites</center></p>
+    <hr><center><width="600px"</width></center></hr>
+
+<h2><center>Favorite Books</center></h2>
+
+<center><table border="1">
+   <tr>
+      <th><b><u>Book Title</u></b></th>
+      <th><b><u>Author</u></b></th>
+      <th><b><u>Awards</u></b></th>
+      <th><b><u>Year Published</u></b></th>
+   </tr>
+   <tr>
+      <td><i>The Maze Runner</i></td>
+      <td>James Dashner</td>
+      <td>2011 ALA Best Fiction for Young Adults; 2012 Young Reader's Choice Award</td>
+      <td>2009</td>
+   </tr>
+   <tr>
+      <td><i>Normal People</i></td>
+      <td>Sally Rooney</td>
+      <td>British Book Award: Book of the Year</td>
+      <td>2018</td>
+   </tr>
+   <tr>
+      <td><i>I He Had Been with Me</i></td>
+      <td>Laura Nowlin</td>
+      <td>N/A</td>
+      <td>2013</td>
+   </tr>
+   </table>
+   </table></center>
+
+<hr><center><width="550px"</width></center></hr>
+    <h3><center>Favorite Texas Vacation Sites</center></h3>    
+
+    <ul>
+        <li><a href="https://www.rockporttx.gov" target="_blank">Rockport</a></li>
+        <li><a href="https://tpwd.texas.gov/state-parks/garner">Frio River</a></li>
+        <li><a href="https://www.portaransas.org>Port Aransas</a></li>
+    </ul>
+    
+<hr><center><width="550px"</width></center></hr>
+    <h4><center>Favorite Memories</center></h4>
+
+    <img src="state sb victory.jpg" alt="State Softball"
+    <img src="bahamas trip.jpg" alt="Bahamas Trip"
+    <img src="am fb games.jpg" alt="A&M FB"
+     
+<hr><center><width="550px"</width></center></hr>
+    <center><a href="mailto: juliamac@tamu.edu">Email Me</a></center>
+        
+</td>
+</tr>
+</table>
+    
+</body>
+
+</html
