@@ -16,7 +16,7 @@
     <hr><center><width="600px"</width></center></hr>
     
 <center><img src ="pier pic.jpg" alt="Me Pic" align="center" width="550px" height="460px"></center>
-    <center><p><b>About Me</b></p></center>
+    <h2><center><p>About Me</p></center></h2>
     
 <p>Howdy! I am Julia Machacek. I am originally from Shiner, Texas and currently living in College Station, Texas. 
     I am a student in 
@@ -34,11 +34,11 @@
             in Shiner, Texas. Being I work in hospitality, I am now considered a certified bartender and tour guide and I love it!
             </p>
 
-    <center><a href="resume.pdf" target="_blank"> Click Here for My Resume in .PDF Format<br />
+    <center><a href="resume.pdf" target="_blank"> Click Here for My Resume in .PDF Format</a></center>
     <a href="resume.word" target="_blank"> Click Here for My Resume in Word Format</a></center>
     
 <hr><center><width="550px"</width></center></hr>
-    <center><a href="mailto: juliamac@tamu.edu"> Email Me</a></center>
+    <center><a href="mailto: juliamac@tamu.edu"> Email Me </a></center>
         
 </td>
 </tr>
